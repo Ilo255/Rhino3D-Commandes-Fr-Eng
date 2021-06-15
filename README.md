@@ -16,6 +16,9 @@ Petit guide pour prendre en main les commandes de [**Rhino3D**](https://www.rhin
 | click droit sur calque + change object layer | affecter des tracés à un calque |
 | move | bouger un objet |
 | points | faire plusieurs points |
+| offset | donner de l'épaisseur |
+| revolve | révolution |
+| fillet | arrondir |
 
 ---
 ## GrassHopper
