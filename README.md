@@ -7,6 +7,7 @@ Petit guide pour prendre en main les commandes de [**Rhino3D**](https://www.rhin
 | --- | --- |
 | scale | changer l'échelle |
 | grid | paramètres de la grille |
+| picture | ajouter une image |
 
 
 
