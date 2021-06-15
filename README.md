@@ -15,6 +15,7 @@ Petit guide pour prendre en main les commandes de [**Rhino3D**](https://www.rhin
 | join | rejoindre deux lignes |
 | click droit sur calque + change object layer | affecter des tracés à un calque |
 | move | bouger un objet |
+| points | faire plusieurs points |
 
 ---
 ## GrassHopper
@@ -28,3 +29,6 @@ Petit guide pour prendre en main les commandes de [**Rhino3D**](https://www.rhin
 | line | faire une ligne |
 | unit (x, y, z) | direction où bouger |
 | curve | faire une ligne |
+| polyline | polylignes |
+| panel | permet de voir ce qu'il y a à l'intérieur |
+
