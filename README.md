@@ -23,7 +23,7 @@ Petit guide pour prendre en main les commandes de [**Rhino3D**](https://www.rhin
 ---
 ## GrassHopper
 
-| grasshopper | ouvre grasshopper |
+| English | Français |
 | --- | --- |
 | point | faire un point |
 | move | bouger un objet |
@@ -34,4 +34,13 @@ Petit guide pour prendre en main les commandes de [**Rhino3D**](https://www.rhin
 | curve | faire une ligne |
 | polyline | polylignes |
 | panel | permet de voir ce qu'il y a à l'intérieur |
+| point list | fait une liste des points|
+| interpolate + vertices | création d'une courbe entre les points |
+| nurbs curve + vertices | interprète une courbe sans toucher les points |
+| scribble | écrire du texte |
+| group | grouper |
+| offset curve ||
+| boundary surfaces | créer des surfaces |
+
+
 
