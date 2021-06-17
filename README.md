@@ -41,6 +41,10 @@ Petit guide pour prendre en main les commandes de [**Rhino3D**](https://www.rhin
 | group | grouper |
 | offset curve ||
 | boundary surfaces | créer des surfaces |
+| merge | met en relation plusieurs propriétés |
+| populate geometry | aléatoire |
+| voronoi | découpe d'un espace déterminée par des points|
+| bounding box | découpe l'espace |
 
 
 
