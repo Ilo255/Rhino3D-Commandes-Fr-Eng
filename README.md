@@ -19,6 +19,8 @@ Petit guide pour prendre en main les commandes de [**Rhino3D**](https://www.rhin
 | offset | donner de l'épaisseur |
 | revolve | révolution |
 | fillet | arrondir |
+| array | déployer et multiplier la forme |
+
 
 ---
 ## GrassHopper
