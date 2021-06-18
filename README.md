@@ -49,6 +49,8 @@ Petit guide pour prendre en main les commandes de [**Rhino3D**](https://www.rhin
 | voronoi | découpe d'un espace déterminée par des points|
 | bounding box | découpe l'espace |
 | extrude | extruder |
+| point curve | mettre un point sur une courbe |
+
 
 
 
