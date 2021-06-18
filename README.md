@@ -20,6 +20,7 @@ Petit guide pour prendre en main les commandes de [**Rhino3D**](https://www.rhin
 | revolve | révolution |
 | fillet | arrondir |
 | array | déployer et multiplier la forme |
+| extrude (crv, srf, ...) | extruder |
 
 
 ---
@@ -47,6 +48,7 @@ Petit guide pour prendre en main les commandes de [**Rhino3D**](https://www.rhin
 | populate geometry | aléatoire |
 | voronoi | découpe d'un espace déterminée par des points|
 | bounding box | découpe l'espace |
+| extrude | extruder |
 
 
 
