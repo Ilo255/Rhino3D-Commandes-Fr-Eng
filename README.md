@@ -51,6 +51,8 @@ Petit guide pour prendre en main les commandes de [**Rhino3D**](https://www.rhin
 | extrude | extruder |
 | point curve | mettre un point sur une courbe |
 | pips | tube autour d'une courbe |
+| gradian | changer les nombres en degrés |
+
 
 
 
