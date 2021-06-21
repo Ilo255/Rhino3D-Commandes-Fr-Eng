@@ -53,6 +53,8 @@ Petit guide pour prendre en main les commandes de [**Rhino3D**](https://www.rhin
 | pips | tube autour d'une courbe |
 | gradian | changer les nombres en degrés |
 | construct point | construire un point à partir des coordonnées |
+| series | dupliquer |
+
 
 
 
