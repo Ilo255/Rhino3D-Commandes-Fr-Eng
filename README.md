@@ -56,6 +56,7 @@ Petit guide pour prendre en main les commandes de [**Rhino3D**](https://www.rhin
 | series | dupliquer |
 | surface split | courbes qui coupent une surface |
 | area | avoir le centre d'une surface |
+| brep closest point | |
 
 
 
