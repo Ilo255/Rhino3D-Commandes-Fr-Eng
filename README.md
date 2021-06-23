@@ -55,6 +55,7 @@ Petit guide pour prendre en main les commandes de [**Rhino3D**](https://www.rhin
 | construct point | construire un point à partir des coordonnées |
 | series | dupliquer |
 | surface split | courbes qui coupent une surface |
+| area | avoir le centre d'une surface |
 
 
 
