@@ -18,7 +18,7 @@ Petit guide pour prendre en main les commandes de [**Rhino3D**](https://www.rhin
 | points | faire plusieurs points |
 | offset | donner de l'épaisseur |
 | revolve | révolution |
-| fillet | arrondir |
+| fillet | congé |
 | array | déployer et multiplier la forme |
 | extrude (crv, srf, ...) | extruder |
 
